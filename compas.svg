@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- outer circle -->
+  <circle cx="12" cy="12" r="9"
+          fill="none"
+          stroke="#b5b5b5"
+          stroke-width="1.5"/>
+
+  <!-- diagonal arrow -->
+  <line x1="9" y1="15" x2="15" y2="9"
+        stroke="#b5b5b5"
+        stroke-width="1.5"
+        stroke-linecap="round"/>
+
+  <!-- arrow head dot -->
+  <circle cx="15" cy="9" r="1.5" fill="#b5b5b5"/>
+</svg>
